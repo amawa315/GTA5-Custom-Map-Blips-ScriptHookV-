@@ -2,6 +2,8 @@
 
 This is a C++ ScriptHookV script for GTA5 that adds custom blips (pins, offices, garages, etc.) to the in-game map.
 
+***This is just a sample code and some changes will be required.**
+
 ## Features
 - Add blips (map icons) to any coordinates
 - Supports pins, offices, buildings, garages, and other icons
