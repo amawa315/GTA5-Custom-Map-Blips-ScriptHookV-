@@ -21,4 +21,6 @@ This script is a C++ ScriptHookV script for GTA5 that adds custom blips (pins, o
 5. Place the generated `.asi` file into the GTA5 main folder
 6. Launch the game, and the custom blip will appear at the specified coordinates
 
-> ⚠️ Note: If you rename the NativeTrainer folder, the resulting `.asi` file name will be based on the folder name.
+> [!NOTE]
+>
+> If you rename the NativeTrainer folder, the resulting `.asi` file name will be based on the folder name.
